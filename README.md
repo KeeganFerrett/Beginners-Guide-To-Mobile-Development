@@ -13,5 +13,5 @@ project, such as:
 
 ## Where to start
 
-* [iOS]()
-* [Android]()
+* [iOS](https://github.com/KeeganFerrett/Beginners-Guide-To-Mobile-Development/tree/master/iOS)
+* [Android](https://github.com/KeeganFerrett/Beginners-Guide-To-Mobile-Development/tree/master/Android)
